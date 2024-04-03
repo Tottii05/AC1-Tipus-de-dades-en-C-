@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<personajes>
+  <Personaje>
+    <Nombre>Gandalf</Nombre>
+    <Nivel>20</Nivel>
+    <HP>200</HP>
+    <Ataque>50</Ataque>
+    <Defensa>30</Defensa>
+  </Personaje>
+  <Personaje>
+    <Nombre>Frodo</Nombre>
+    <Nivel>10</Nivel>
+    <HP>50</HP>
+    <Ataque>20</Ataque>
+    <Defensa>10</Defensa>
+  </Personaje>
+</personajes>

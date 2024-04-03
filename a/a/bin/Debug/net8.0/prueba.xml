@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<armas>
+    <arma nombre="Espada">
+        <tipo>Corte</tipo>
+        <daño>10</daño>
+        <bonus>+3</bonus>
+    </arma>
+    <arma nombre="Arco">
+        <tipo>A distancia</tipo>
+        <daño>8</daño>
+    </arma>
+</armas>
