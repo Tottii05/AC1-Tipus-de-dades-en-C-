@@ -17,6 +17,14 @@ return (from score in scores
 uniqueScores.Sort((x, y) => x.Scoring.CompareTo(y.Scoring));
 ```
 
+- - Resultado 3:
+```
+for (int i = 0; i < words.Length; i++)
+{
+words[i] = words[i].Substring(0, 1).ToUpper() + words[i].Substring(1).ToLower();
+}
+```
+
 - ## ChatGPT
 - - resultado 1:
 ```
@@ -26,3 +34,6 @@ public static List<Score> OrderByScoring(List<Score> scores)
     return scores;
 }
 ```
+
+# Comentario para los que corrigen
+Los nombres de misiones (que deben empezar por la consonante griega), deben empezar por mayúscula
