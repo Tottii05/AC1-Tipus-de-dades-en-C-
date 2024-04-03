@@ -3,7 +3,7 @@
 - Viquipèdia (2024/04/03) (https://ca.wikipedia.org/wiki/Alfabet_grec)
 
 # IA consultada
-- Github Copilot
+- ##Github Copilot
 - - Resultado 1:
 
 ```
@@ -17,7 +17,7 @@ return (from score in scores
 uniqueScores.Sort((x, y) => x.Scoring.CompareTo(y.Scoring));
 ```
 
-- ChatGPT
+- ##ChatGPT
 - - resultado 1:
 ```
 public static List<Score> OrderByScoring(List<Score> scores)
