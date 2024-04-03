@@ -17,6 +17,14 @@ return (from score in scores
 uniqueScores.Sort((x, y) => x.Scoring.CompareTo(y.Scoring));
 ```
 
+- - Resultado 3:
+```
+for (int i = 0; i < words.Length; i++)
+{
+words[i] = words[i].Substring(0, 1).ToUpper() + words[i].Substring(1).ToLower();
+}
+```
+
 - ## ChatGPT
 - - resultado 1:
 ```
