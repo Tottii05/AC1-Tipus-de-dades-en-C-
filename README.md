@@ -34,6 +34,3 @@ public static List<Score> OrderByScoring(List<Score> scores)
     return scores;
 }
 ```
-
-# Comentario para los que corrigen
-Los nombres de misiones (que deben empezar por la consonante griega), deben empezar por mayúscula
